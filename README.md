@@ -30,7 +30,7 @@ git clone https://github.com/MadhavAgrawal06/RandomUser-Application.git
 2. Navigate to the project folder
 
 ```bash
-cd react-api-app
+cd RandomUser-Application
 ```
 
 3. Install dependencies
